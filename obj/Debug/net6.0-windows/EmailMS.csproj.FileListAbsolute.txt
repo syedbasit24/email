@@ -1,0 +1,8 @@
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.csproj.AssemblyReference.cache
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.Form1.resources
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.MainForm.resources
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.csproj.GenerateResource.cache
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.AssemblyInfoInputs.cache
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.AssemblyInfo.cs
+F:\C# learning\EmailMS\EmailMS\obj\Debug\net6.0-windows\EmailMS.csproj.CoreCompileInputs.cache
